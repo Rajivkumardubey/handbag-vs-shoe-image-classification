@@ -1,4 +1,3 @@
-# handbag-vs-shoe-image-classification
 # 👜👟 Handbag vs Shoe Image Classification using Transfer Learning
 
 An image classification project that distinguishes between handbags and shoes using deep learning. The project explores convolutional neural networks, data augmentation, Vision Transformers, and transfer learning with a pretrained ResNet50 model.
