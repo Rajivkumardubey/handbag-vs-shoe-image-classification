@@ -1,0 +1,6 @@
+tensorflow
+keras
+keras-hub
+numpy
+pandas
+matplotlib
